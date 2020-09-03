@@ -19,5 +19,5 @@
 - 14:45-15:45　[NGSデータ検索（NCBI SRA、ENA、DDBJ、AOEなど）](02_nakazato)
 ……仲里 猛留（DBCLS）
 
-- 16:00-17:00　[植物ゲノム（Plant GARDEN）](03_idobe)
+- 16:00-17:00　[植物ゲノム（Plant GARDEN）](03_isobe)
 ……磯部 祥子(かずさDNA研究所植物ゲノム・遺伝学研究室)　
